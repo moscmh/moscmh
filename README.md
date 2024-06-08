@@ -10,3 +10,8 @@
 - 🌱 I’m currently learning Machine Learning 
 - 📫 How to reach me: Instagram @moscheung
 - 😄 Pronouns: He/him
+
+## To-Learn
+- [x] Git
+- [ ] Tableau
+- [ ] AWS
