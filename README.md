@@ -7,8 +7,8 @@
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Machine Learning 
-- 📫 How to reach me: Instagram @moscheung
+- 🌱 I’m a Data Scientist wannabe.
+- 📫 How to reach me: Instagram @moscheung or email mos.cheung.mh@gmail.com
 - 😄 Pronouns: He/him
 
 ## To-Learn
