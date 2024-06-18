@@ -11,8 +11,9 @@
 - 📫 How to reach me: Instagram @moscheung or email mos.cheung.mh@gmail.com
 - 😄 Pronouns: He/him
 
+<!--
 ## To-Learn
-- [x] Git
 - [ ] Tableau
 - [ ] AWS
 - [ ] Azure
+-->
