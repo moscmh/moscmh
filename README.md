@@ -13,10 +13,8 @@
 
 # Python
 * Visualization
-  * Matplotlib
-  * Seaborn
-* 
-
+* Supervised Machine Learning
+* Unsupervised Machine Learning
 <!--
 ## To-Learn
 - [ ] Tableau
