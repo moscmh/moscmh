@@ -11,10 +11,6 @@
 - 📫 How to reach me: Instagram @moscheung or email mos.cheung.mh@gmail.com
 - 😄 Pronouns: He/him
 
-# Python
-* Visualization
-* Supervised Machine Learning
-* Unsupervised Machine Learning
 <!--
 ## To-Learn
 - [ ] Tableau
