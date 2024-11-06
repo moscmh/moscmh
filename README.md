@@ -1,5 +1,22 @@
-## Hi there 👋
-![image of a kangaroo](https://wildlifewonders.org.au/wp-content/uploads/2020/08/eastern_grey_kangaroo_placeholder-1.png)
+# Man Ho Cheung
+I am a Master of Predictive Analytics student based in Perth, Australia, expected to graduate in July 2025. I am passionate about discovering patterns and insights from data through `visualization` and `feature engineering`, as well as making predictions using `data modeling`.
+
+<!--
+You are welcome to have a look at my [portfolio]() and any feedback is appreciated. 
+-->
+
+## Tools
+### Language
+Python, R, SQL
+### Visualisation
+Tableau, PowerBI
+
+## Job-Related
+I am looking for jobs or internships to apply my knowledge in a real-world setting. Apart from that, I am also interested in project collaborations.
+* Please connect with me [LinkedIn](www.linkedin.com/in/moscheung).
+
+
+
 <!--
 - 🔭 I’m currently working on ... 
 - 👯 I’m looking to collaborate on ...
@@ -7,10 +24,6 @@
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m a Data Scientist wannabe.
-- 📫 How to reach me: Instagram @moscheung or email mos.cheung.mh@gmail.com
-- 😄 Pronouns: He/him
-
 <!--
 ## To-Learn
 - [ ] Tableau
