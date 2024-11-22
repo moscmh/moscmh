@@ -1,5 +1,5 @@
 # Man Ho Cheung
-I am a Master of Predictive Analytics student based in Perth, Australia, expected to graduate in July 2025. I am passionate about discovering patterns and insights from data through `visualization` and `feature engineering`, as well as making predictions using `machine learning modeling`.
+Aspiring data scientist pursuing a Master's in Predictive Analytics, graduating July 2025, in Perth, Australia. Skilled in revealing actionable insights through data `visualisation`, `feature engineering`, and `predictive modelling` using `machine learning`.
 
 ## Portfolio
 You are welcome to have a look at my [portfolio](https://github.com/moscmh/portfolio/tree/main). Any feedback is appreciated. 
@@ -9,6 +9,8 @@ You are welcome to have a look at my [portfolio](https://github.com/moscmh/portf
 Python, R, SQL
 ### Visualisation
 Tableau, PowerBI
+### Machine Learning
+Scikit-Learn, Tensorflow, PyTorch
 
 ## Job-Related
 I am looking for jobs or internships to apply my knowledge in a real-world setting. Apart from that, I am also interested in project collaborations.
