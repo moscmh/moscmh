@@ -10,7 +10,7 @@ Python, R, SQL
 ### Visualisation
 Tableau, PowerBI
 ### Machine Learning
-Scikit-Learn, Tensorflow, PyTorch
+Scikit-Learn, Tensorflow, PyTorch, ARIMA, SARIMAX
 
 ## Job-Related
 I am looking for jobs or internships to apply my knowledge in a real-world setting. Apart from that, I am also interested in project collaborations.
