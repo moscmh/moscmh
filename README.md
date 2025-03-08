@@ -13,7 +13,7 @@ Tableau, PowerBI
 Scikit-Learn, Tensorflow, PyTorch, SARIMAX
 
 ## Job-Related
-I am looking for jobs or internships to apply my knowledge in a real-world setting. Apart from that, I am also interested in project collaborations.
+I am looking for jobs where I can apply my knowledge in a real-world setting. Apart from that, I am also interested in project collaborations.
 * Please connect with me [LinkedIn](www.linkedin.com/in/moscheung).
 
 
