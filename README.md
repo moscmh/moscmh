@@ -1,5 +1,5 @@
 # Man Ho Cheung
-Aspiring data scientist pursuing a Master's in Predictive Analytics, graduating July 2025, in Perth, Australia. Skilled in revealing actionable insights through data `visualisation`, `feature engineering`, and `predictive modelling` using `machine learning`.
+Aspiring data scientist pursuing a Master's in Predictive Analytics, graduating July 2025, in Perth, Australia. Passionate about revealing actionable insights through data `visualisation`, `feature engineering`, and `predictive modelling` using `machine learning` and enhancing operational efficiency using `Artificial Intelligence`.
 
 ## Portfolio
 You are welcome to have a look at my [portfolio](https://github.com/moscmh/portfolio/tree/main). Any feedback is appreciated. 
