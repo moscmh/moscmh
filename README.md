@@ -1,4 +1,4 @@
-# Man Ho Cheung
+# Man Ho Cheung (Mos)
 Graduated in September 2025 at Curtin University with a master's degree in Predictive Analytics, in Perth, Australia. Passionate about revealing actionable insights and building solutions through data visualisation, feature engineering, and predictive modelling in a machine learning workflow and enhancing operational efficiency using Artificial Intelligence.
 
 ## Portfolio
