@@ -1,5 +1,5 @@
 # Man Ho Cheung
-Aspiring data science postgraduate pursuing a Master's in Predictive Analytics, graduating July 2025, in Perth, Australia. Passionate about revealing actionable insights through data `visualisation`, `feature engineering`, and `predictive modelling` using `machine learning` and enhancing operational efficiency using `Artificial Intelligence`.
+Graduated in September 2025 at Curtin University with a master's degree in Predictive Analytics, in Perth, Australia. Passionate about revealing actionable insights and building solutions through data visualisation, feature engineering, and predictive modelling in a machine learning workflow and enhancing operational efficiency using Artificial Intelligence.
 
 ## Portfolio
 You are welcome to have a look at my [portfolio](https://github.com/moscmh/portfolio/tree/main). Any feedback is appreciated. 
@@ -13,24 +13,8 @@ Tableau, PowerBI
 Scikit-Learn, Tensorflow, PyTorch, SARIMAX
 
 ## Certification
-Microsoft Azure Data Scientist Associate
+Microsoft Azure Data Scientist Associate Certification
 
 ## Job-Related
 I am looking for jobs where I can apply my knowledge in a real-world setting. Apart from that, I am also interested in project collaborations.
 * Please connect with me [LinkedIn](www.linkedin.com/in/moscheung).
-
-
-
-<!--
-- 🔭 I’m currently working on ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
-<!--
-## To-Learn
-- [ ] Tableau
-- [ ] AWS
-- [ ] Azure
--->
