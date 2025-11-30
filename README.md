@@ -21,7 +21,7 @@ This immersive data science workflow demonstrated how crucial exploratory data a
 * Enhanced model training efficiency with a data processing pipeline (`sklearn.pipeline`)
 * Hyperparameter tuning using `Optuna`
 
-### [Hong Kong Species Occurrence Predictions](https://github.com/moscmh/hkspeciesoccur)
+### [Hong Kong Species Occurrence Predictions](https://github.com/moscmh/hkspecies)
 The interactive web application aims to raise awareness in the Hong Kong precious species that are prone to extinction. The species occurrence predictions from the `CNN-LSTM` deep learning model also help local green groups with environmental monitoring and conservation planning. [Live Demo](http://3.25.93.9)
 * Contains 2001-2024 Hong Kong 1000+ species occurrences `geospatial` data
 * Data congregation and preprocessing for model training
