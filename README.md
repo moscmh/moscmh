@@ -44,4 +44,4 @@ Microsoft Azure Data Scientist Associate Certification
 
 ## Job-Related
 I am looking for jobs where I can apply my knowledge in a real-world setting. Apart from that, I am also interested in project collaborations.
-* Please connect with me [LinkedIn](www.linkedin.com/in/moscheung).
+* Please connect with me [LinkedIn](https://www.linkedin.com/in/moscheung).
